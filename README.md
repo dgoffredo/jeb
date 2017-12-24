@@ -40,4 +40,4 @@ TODO: Usage (system setup, probably), build, etc.
 More
 ----
 TODO: The format of messages in each of the message queues, a description of
-the subscruption predicate functions, how the `jeb-manager` works, etc.
+the subscription predicate functions, how the `jeb-manager` works, etc.

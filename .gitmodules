@@ -1,0 +1,3 @@
+[submodule "mq"]
+	path = mq
+	url = https://github.com/dgoffredo/mq.git
